@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [http://ghanshyamdigital.com](http://ghanshyamdigital.com)
 
-- 💬 Ask me about **.net, .net core, react, angular, node**
+- 💬 Ask me about **.net, .net core, react, angular, node, python**
 
 - 📫 How to reach me **khatri.karankhatri.karan@gmail.com**
-
-- 📄 Know about my experiences [https://www.pdfescape.com/open/?4A97081AE6F649FF528D0031F815A194F1DCB9A49A6FC4CD](https://www.pdfescape.com/open/?4A97081AE6F649FF528D0031F815A194F1DCB9A49A6FC4CD)
 
 - ⚡ Fun fact **I think i am funny**
 
